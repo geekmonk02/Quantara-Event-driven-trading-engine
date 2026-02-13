@@ -1,0 +1,22 @@
+{
+  "market": {
+    "start_price": 100.0,
+    "volatility": 0.02,
+    "stress": false
+  },
+  "strategy": {
+    "spread": 0.02,
+    "gamma": 0.05
+  },
+  "risk": {
+    "monte_carlo_paths": 20000,
+    "var_limit": 2000.0
+  },
+  "latency": {
+    "min_us": 5,
+    "max_us": 50
+  },
+  "simulation": {
+    "events": 50000
+  }
+}
