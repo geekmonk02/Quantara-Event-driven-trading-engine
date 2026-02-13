@@ -1,0 +1,51 @@
+# =========================
+# Build Directories
+# =========================
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# =========================
+# Compiled Files
+# =========================
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.dll
+*.so
+*.dylib
+
+# =========================
+# Static / Dynamic Libraries
+# =========================
+*.a
+*.lib
+
+# =========================
+# Debug / Logs
+# =========================
+*.log
+*.tmp
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.sln
+*.vcxproj*
