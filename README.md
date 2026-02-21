@@ -1,4 +1,4 @@
-# QUANTARA - Event-Driven Trading Engine (C++)
+# QUANTARA - Event-Driven Trading Engine (C++).
 
 A high-performance event-driven trading simulator built with modern C++20 for modeling electronic markets, execution behavior, and real-time risk controls.
 
